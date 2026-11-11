@@ -1,0 +1,2 @@
+RES-1001|Farhan Rahman|8918350169|201|DELUXE|2026-11-12|3|540.0|Credit Card|TXN-876005|CANCELLED
+RES-1002|Furquana Jeelani|jeelanifurquana@gmail.com|101|STANDARD|2026-11-12|2|200.0|Cash at Reception|TXN-636608|CANCELLED
